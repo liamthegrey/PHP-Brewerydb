@@ -5,6 +5,10 @@
     "description": "PHP wrapper for BreweryDB",
     "keywords": ["BreweryDB", "beer", "api", "php"],
     "homepage": "https://github.com/liamthegrey/PHP-Brewerydb/",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
     "autoload": {
         "classmap": ["Pintlabs/Service/Brewerydb.php"]
     }
