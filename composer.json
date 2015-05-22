@@ -1,5 +1,5 @@
 {
-    "name": "liamthegrey/PHP-Brewerydb",
+    "name": "liamthegrey/brewerydb-php",
     "version": "1.0",
     "type": "library",
     "description": "PHP wrapper for BreweryDB",
