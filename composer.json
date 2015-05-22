@@ -1,0 +1,13 @@
+{
+    "name": "liamthegrey/brewerydb-php",
+    "description": "PHP wrapper for BreweryDB with support for Composer.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Liam",
+            "email": "liam@brewbird.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
