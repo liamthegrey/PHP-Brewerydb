@@ -1,8 +1,8 @@
 {
-    "name": "liamthegrey/brewerydb-php",
+    "name": "brewerydb-php",
     "version": "1.0",
     "type": "library",
-    "description": "PHP wrapper for BreweryDB",
+    "description": "PHP wrapper for BreweryDB. Forked from official repo.",
     "keywords": ["BreweryDB", "beer", "api", "php"],
     "homepage": "https://github.com/liamthegrey/PHP-Brewerydb/",
     "minimum-stability": "dev",
