@@ -1,13 +1,10 @@
 {
-    "name": "liamthegrey/brewerydb-php",
-    "description": "PHP wrapper for BreweryDB with support for Composer.",
+    "name": "liamthegrey/PHP-Brewerydb",
     "type": "library",
-    "authors": [
-        {
-            "name": "Liam",
-            "email": "liam@brewbird.io"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {}
+    "description": "PHP wrapper for BreweryDB",
+    "keywords": ["BreweryDB", "beer", "api", "php"],
+    "homepage": "https://github.com/liamthegrey/PHP-Brewerydb/",
+    "autoload": {
+        "classmap": ["Pintlabs/Service/Brewerydb.php"]
+    }
 }
